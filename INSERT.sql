@@ -57,6 +57,29 @@ VALUES('My Bad Ass', 205, 6);
 INSERT INTO track(track_name, track_duration, album_id)
 VALUES('Twilight', 540, 7);
 
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('my own', 60, 1);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('own my', 120, 2);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('my', 180, 3);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('oh my god', 240, 4);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('myself', 300, 5);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('by myself', 360, 6);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('bemy self', 420, 7);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('myself by', 480, 1);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('by myself by', 540, 2);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('beemy', 90, 3);
+INSERT INTO track(track_name, track_duration, album_id)
+VALUES('premyne', 150, 4);
+
 INSERT INTO performer_genre(performer_id, genre_id)
 VALUES(1, 1);
 INSERT INTO performer_genre(performer_id, genre_id)
